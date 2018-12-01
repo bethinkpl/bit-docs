@@ -5,6 +5,14 @@
 ## Intro
 If you wish to provide some introductory remarks about the topic, here's place for it.
 
+## Classification / acceptance questions
+Questions students could ask themeselves to 
+Formulate at least one question per competence level. Do as many competence levels as you're capable of. Starting with the lowest (novice) may be a good strategy.
+
+## Sources
+
+## Exercises
+
 **Next steps**: comma, separated, list, of, documents, names
 
 > **Additional remarks about the template:** 
