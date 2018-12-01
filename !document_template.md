@@ -10,7 +10,7 @@ Questions students could ask themeselves to evaluate their competence level.
 Formulate at least one question per competence level. Do as many competence levels as you're capable of. Starting with the lowest (novice) may be a good strategy.
 
 ## Sources
-Provide references to knowledge sources you recommend. Sources diversity (books, youtube, articles, courses) is desired.
+Provide references to knowledge sources you recommend. Sources diversity (books, youtube, articles, courses) is desired. Categorization by compoetence level is also desired.
 
 ## All custom stuff
 If you'd like to provide your own educational content of any kind (e.g. original exercices ideas), now is the best f*** time.
