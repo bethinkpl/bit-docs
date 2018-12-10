@@ -12,7 +12,7 @@ Formulate at least one question per competence level. Do as many competence leve
 ## Sources
 Provide references to knowledge sources you recommend. Sources diversity (books, youtube, articles, courses) is desired. Categorization by competence level is also desired.
 
-### Apprentice aka _Short skillset decription, example: "I can branch!", "My First TODO app"_
+### Apprentice aka _Short skillset description, example: "I can branch!", "My First TODO app"_
 [Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
 ### Intermediate aka _..._
 [Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
