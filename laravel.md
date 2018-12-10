@@ -29,7 +29,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 * I can use Lavarel transformers to make the output consistent
 
 ### Master aka _My TODO app on production_
-**Prerequisite knowledge:** cache, webservers, tests, queues
+**Prerequisite knowledge:** cache, webservers, tests, queues, deployment
 * I can introduce cache for Models to avoid performance problems
 * I can cache content in the browser to improve user experience
 * I can use Jobs, Queues and Scheduler for maintenance or writing asynchronous code
