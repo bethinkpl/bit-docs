@@ -1,6 +1,6 @@
 # Document title
 
-**Prerequisite knowledge**: comma, separated, list, of, documents, names
+**[Optional] Prerequisite knowledge**: comma, separated, list, of, documents, names
 
 ## Intro
 If you wish to provide some introductory remarks about the topic, here's place for it.
@@ -11,6 +11,15 @@ Formulate at least one question per competence level. Do as many competence leve
 
 ## Sources
 Provide references to knowledge sources you recommend. Sources diversity (books, youtube, articles, courses) is desired. Categorization by competence level is also desired.
+
+### Apprentice aka _Short skillset secription, example: "I can branch!", "My First TODO app"_
+[Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
+### Intermediate aka _..._
+[Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
+### Advanced aka _..._
+[Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
+### Master aka _..._
+[Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
 
 ## All custom stuff
 If you'd like to provide your own educational content of any kind (e.g. original exercices ideas), now is the best f*** time.
