@@ -26,7 +26,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 
 ### Advanced aka _My TODO app has REST API_
 **Prerequisite knowledge:** rest, http,
-* I can read headers from request and set headers on a response
+* I can read headers from a request and set headers on a response
 * I can create REST API in my app
 * I can use Laravel transformers to make the output consistent
 
