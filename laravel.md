@@ -18,7 +18,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 **Prerequisite knowledge:** cookies, session, authorization
 * I can use Artisan CLI for DB migration and code generation
 * I can set data in users session
-* I can introduce Authorization to my application - only logged in users can see the content
+* I can introduce Authentication and Authorization to my application using Laravel Policies and Gates to limit allowed actions on a different parts of the application
 * I can set Eloquent relations to fetch related data from DB
 * I can validate user input to make sure the incoming data is in the expected shape
 * I can assign roles with a specific permissions set to users
