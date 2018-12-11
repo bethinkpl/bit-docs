@@ -8,11 +8,9 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 ## Classification / acceptance questions
 
 ### Apprentice aka _My First TODO app_
-* I know what Laravel is
-* I can use Laravel router to respond to client requests
-* I can create simple blade templates to separate presentation layer from business logic
-* I can Create, Read, Update and Delete entries in DB through Eloquent Model 
-* I can use MVC design pattern in Laravel
+* I can Create, Read, Update and Delete entries in DB through Eloquent Model (M in MVC)
+* I can create simple blade templates to separate presentation layer from business logic (V in MVC)
+* I can use Laravel router to respond to client requests (C in MVC)
 
 ### Intermediate aka _Beta users can use my TODO app_
 **Prerequisite knowledge:** cookies, session, authorization
