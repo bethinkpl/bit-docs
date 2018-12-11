@@ -12,11 +12,11 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I know what Git is
 * I can initialize empty Git repository on my local machine
 * I understand different states of files in Git repository
-* * untracked
-* * unstaged
-* * staged
-* * commited
-* I can list modified fields on my local file system in version controled directory
+  * untracked
+  * unstaged
+  * staged
+  * commited
+* I can list modified files on my local file system in version controled directory
 * I can reset modified changes in a file
 * I can stage changes for a commit
 * I can unstage changes
@@ -27,7 +27,7 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I can create a branch locally and switch between the branches
 * I understand the concept of branching and I know which commits / changes I can expect on different branches
 * I can stash my changes and move them between branches
-* I know how to move commits between branches, `git cherry-pick` command
+* I know how to copy commits between branches, `git cherry-pick` command
 
 ### Advanced aka _Teamplayer_
 * I know there are remote Git servers and services that offer it like: GitHub, Bitbucket or GitLab
@@ -38,9 +38,9 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I know what the mysterious `origin` means, I know how to add a remote server, change its URL or remove it from my local git configuration
 * I can collaborate with others, share code, merge their changes into my branch and resolve the potential merge conflicts
 * I know different approaches to collaboration in git project. I know what these mean:
-* * feature branch
-* * git flow
-* * pull(merge) request
+  * feature branch
+  * git flow
+  * pull(merge) request
 
 ### Wizard aka _I can fix what I break_
 * I understand how Git history works
@@ -50,9 +50,9 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 
 ## Sources
 ### Books
-- https://git-scm.com/book/en/v2
+- [Pro Git](https://git-scm.com/book/en/v2)
 
 ### Articles
-- https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395
-- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-- https://medium.com/@sauvik_dolui/a-few-git-tricks-tips-b680c3968a9b
+- [Become a git pro in just one blog - a through guide to git architecture and command line interface](https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395)
+- [Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [A few git tricks and tips](https://medium.com/@sauvik_dolui/a-few-git-tricks-tips-b680c3968a9b)
