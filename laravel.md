@@ -22,7 +22,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 * I can set Eloquent relations to fetch related data from DB
 * I can validate user input to make sure the incoming data is in the expected shape
 * I can assign roles with a specific permissions set to users
-* I can serve static assets like css and js to make user experience better
+* I can serve static assets like CSS and JS to make user experience better
 
 ### Advanced aka _My TODO app has REST API_
 **Prerequisite knowledge:** rest, http,
