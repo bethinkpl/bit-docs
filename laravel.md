@@ -28,7 +28,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 **Prerequisite knowledge:** rest, http,
 * I can read headers from request and set headers on a response
 * I can create REST API in my app
-* I can use Lavarel transformers to make the output consistent
+* I can use Laravel transformers to make the output consistent
 
 ### Master aka _My TODO app on production_
 **Prerequisite knowledge:** cache, webservers, tests, queues, deployment
