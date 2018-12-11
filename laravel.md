@@ -16,7 +16,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 
 ### Intermediate aka _Beta users can use my TODO app_
 **Prerequisite knowledge:** cookies, session, authorization
-* I can use artisian CLI for DB migration and code generation
+* I can use Artisan CLI for DB migration and code generation
 * I can set data in users session
 * I can introduce Authorization to my application - only logged in users can see the content
 * I can set Eloquest relations to fetch related data from DB
