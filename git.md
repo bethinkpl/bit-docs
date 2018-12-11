@@ -36,7 +36,7 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I can push my changes to the remote server and pull them from it
 * I can create branches locally and push them to the remote server
 * I know what the mysterious `origin` means, I know how to add a remote server, change its URL or remove it from my local git configuration
-* I can collaborate with my teamates, share code, merge their changes into my branch and resolve the potential confilcts (in code :D)
+* I can collaborate with others, share code, merge their changes into my branch and resolve the potential merge conflicts
 * I know different approaches to collaboration in git project. I know what these mean:
 ** feature branch
 ** git flow
