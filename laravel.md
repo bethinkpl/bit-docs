@@ -11,7 +11,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 * I know what Laravel is
 * I can use Laravel router to interact with the end user
 * I can create simple blade templates to separate presentation layer from business logic
-* I can Create, Read, Update, Delete entries in DB through Eloquent Model 
+* I can Create, Read, Update and Delete entries in DB through Eloquent Model 
 * I can use MVC design pattern in Laravel
 
 ### Intermediate aka _Beta users can use my TODO app_
