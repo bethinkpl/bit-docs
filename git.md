@@ -4,7 +4,7 @@ basic shell (command line) usage
 
 ## Intro
 Before you jump into Git it's good to first learn what are the version control systems and when it's good to use one.
-You can read more about VCS (shortcut from Version Control System) in this article: https://pl.atlassian.com/git/tutorials/what-is-version-control
+You can read more about VCS (shortcut from Version Control System) in this article: https://www.atlassian.com/git/tutorials/what-is-version-control
 
 ## Classification / acceptance questions
 ### Apprentice aka _My First Commit_
@@ -30,14 +30,14 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I know how to move commits between branches, `git cherry-pick` command
 
 ### Advanced aka _Teamplayer_
-* I know there are remote Git servers and services that offer it like: Github, Bitbucket or Gitlab
+* I know there are remote Git servers and services that offer it like: GitHub, Bitbucket or GitLab
 * I know it's possible to host my own remote Git repository
 * I know I can sync my changes with a remote Git server
 * I can push my changes to the remote server and pull them from it
 * I can create branches locally and push them to the remote server
-* I know what the mysterious `origin` means, I know how to add a remote server, change it's URL or remove it from my local git configuration
+* I know what the mysterious `origin` means, I know how to add a remote server, change its URL or remove it from my local git configuration
 * I can collaborate with my teamates, share code, merge their changes into my branch and resolve the potential confilcts (in code :D)
-* I know different approaches to collaboration in git project. I know what following names mean:
+* I know different approaches to collaboration in git project. I know what these mean:
 ** feature branch
 ** git flow
 ** pull(merge) request
@@ -54,5 +54,5 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 
 ### Articles
 - https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395
-- https://pl.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - https://medium.com/@sauvik_dolui/a-few-git-tricks-tips-b680c3968a9b
