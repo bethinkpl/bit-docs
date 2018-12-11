@@ -12,10 +12,10 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I know what Git is
 * I can initialize empty Git repository on my local machine
 * I understand different states of files in Git repository
-** untracked
-** unstaged
-** staged
-** commited
+* * untracked
+* * unstaged
+* * staged
+* * commited
 * I can list modified fields on my local file system in version controled directory
 * I can reset modified changes in a file
 * I can stage changes for a commit
@@ -38,9 +38,9 @@ You can read more about VCS (shortcut from Version Control System) in this artic
 * I know what the mysterious `origin` means, I know how to add a remote server, change its URL or remove it from my local git configuration
 * I can collaborate with others, share code, merge their changes into my branch and resolve the potential merge conflicts
 * I know different approaches to collaboration in git project. I know what these mean:
-** feature branch
-** git flow
-** pull(merge) request
+* * feature branch
+* * git flow
+* * pull(merge) request
 
 ### Wizard aka _I can fix what I break_
 * I understand how Git history works
