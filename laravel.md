@@ -21,7 +21,7 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 * I can introduce Authorization to my application - only logged in users can see the content
 * I can set Eloquent relations to fetch related data from DB
 * I can validate user input to make sure the incoming data is in the expected shape
-* I can limit permissions to introduce admin role
+* I can assign roles with a specific permissions set to users
 * I can serve static assets like css and js to make user experience better
 
 ### Advanced aka _My TODO app has REST API_
