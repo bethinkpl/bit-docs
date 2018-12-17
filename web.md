@@ -21,8 +21,8 @@ No prerequisite knowledge required. If you see this document, you are probably a
 - I can make the above happen for my own custom domain name, which includes:
   - regestering a domain name
   - adding a DNS record, that will point the domain to a
-  - web server, I've set up, which will serve some
-  - HTML files, that I uploaded.
+  - web server I've set up, which will serve some
+  - HTML files I uploaded.
 
 ### Advanced
 
