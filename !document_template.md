@@ -9,9 +9,6 @@ If you wish to provide some introductory remarks about the topic, here's place f
 Questions students could ask themeselves to evaluate their competence level.
 Formulate at least one question per competence level. Do as many competence levels as you're capable of. Starting with the lowest (novice) may be a good strategy.
 
-## Sources
-Provide references to knowledge sources you recommend. Sources diversity (books, youtube, articles, courses) is desired. Categorization by competence level is also desired.
-
 ### Apprentice aka _Short skillset description, example: "I can branch!", "My First TODO app"_
 [Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
 ### Intermediate aka _..._
@@ -20,6 +17,9 @@ Provide references to knowledge sources you recommend. Sources diversity (books,
 [Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
 ### Master aka _..._
 [Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
+
+## Sources
+Provide references to knowledge sources you recommend. Sources diversity (books, youtube, articles, courses) is desired. Categorization by competence level is also desired.
 
 ## All custom stuff
 If you'd like to provide your own educational content of any kind (e.g. original exercices ideas), now is the best f*** time.
