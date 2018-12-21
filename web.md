@@ -19,14 +19,16 @@ Web - short for World Wide Web.
 - I know what DNS is.
 - I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results.
 
-**Prerequisite knowledge**: DNS
+**Prerequisite knowledge**: DNS, HTTP/HTTPS
 
 ### Advanced
 - I can register a domain and add a DNS record, that will point the domain to a web server.
 - I can set up a webserver that will serve HTML documents, images.
 
+**Prerequisite knowledge**: 
+
 ### Master
-- I am aware of common efficiency issues that come with a web application, and I know how to deal with them.
+- I am aware of common efficiency issues that come with a web application, and I know how to deal with them. (eg. caching, HA, CDN,)
 - ...
 
 ## Sources
