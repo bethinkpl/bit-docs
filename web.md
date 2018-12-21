@@ -19,7 +19,7 @@ Web - short for World Wide Web.
 - I know what DNS is.
 - I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results.
 
-**Prerequisite knowledge**: DNS, HTTP/HTTPS
+**Prerequisite knowledge**: DNS, HTTP/HTTPS, HTML
 
 ### Advanced
 - I can register a domain and add a DNS record, that will point the domain to a web server.
