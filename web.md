@@ -18,6 +18,7 @@ Web - short for World Wide Web.
 - I can explain how does the Web work.
 - I know what DNS is.
 - I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results.
+
 **Prerequisite knowledge**: DNS
 
 ### Advanced
@@ -25,8 +26,8 @@ Web - short for World Wide Web.
 - I can set up a webserver that will serve HTML documents, images.
 
 ### Master
-- web caching
 - I am aware of common efficiency issues that come with a web application, and I know how to deal with them.
+- ...
 
 ## Sources
 ### Video
