@@ -1,11 +1,11 @@
 # Web
 
-**Prerequisite knowledge**: 
+**Prerequisite knowledge**: null
+
+No prerequisite knowledge required. If you see this document, you are probably aware of what computers are and that they can communicate with each other via global network of computer networks, called the Internet. If so, you're all set to begin your journey with the web.
 
 ## Intro
 Web - short for World Wide Web.
-
-No prerequisite knowledge required. If you see this document, you are probably aware of what computers are and that they can communicate with each other via global network of computer networks, called the Internet. If so, you're all set to begin your journey with the web.
 
 ## Classification / acceptance questions
 ### Apprentice:
