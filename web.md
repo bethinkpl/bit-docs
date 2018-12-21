@@ -8,9 +8,9 @@ No prerequisite knowledge required. If you see this document, you are probably a
 Web - short for World Wide Web.
 
 ## Classification / acceptance questions
-### Apprentice:
+### Apprentice aka __:
 - I can tell what World Wide Web is.
-- I can tell the difference betweend web and the internet.
+- I can tell the difference between web and the Internet.
 - I know what a web browser is.
 - I know what a web server is.
 
