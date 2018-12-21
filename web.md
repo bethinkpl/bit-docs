@@ -24,6 +24,7 @@ Web - short for World Wide Web.
 ### Advanced
 - I can register a domain and add a DNS record, that will point the domain to a web server.
 - I can set up a webserver that will serve HTML documents, images.
+- I can make practical use of AJAX/XHR to build a dynamic web application.
 
 **Prerequisite knowledge**: 
 
