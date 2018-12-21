@@ -2,15 +2,15 @@
 
 **Prerequisite knowledge**: null
 
-No prerequisite knowledge required. If you see this document, you are probably aware of what computers are and that they can communicate with each other via global network of computer networks, called the Internet. If so, you're all set to begin your journey with the web.
+No prerequisite knowledge required. If you can see this document, you are probably aware of what computers are and that they can communicate with each other via global system of interconnected computer networks, called the Internet. If so, you're all set to begin your journey with the web.
 
 ## Intro
 Web - short for World Wide Web.
 
 ## Classification / acceptance questions
-### Apprentice aka __:
-- I can tell what World Wide Web is.
-- I can tell the difference between web and the Internet.
+### Apprentice aka _I know what Web is_:
+- I can explain how does the Web work and what are its most fundamental building blocks.
+- I can tell the difference between the Web and the Internet.
 - I know what a web browser is.
 - I know what a web server is.
 
@@ -23,14 +23,23 @@ Web - short for World Wide Web.
   - adding a DNS record, that will point the domain to a
   - web server I've set up, which will serve some
   - HTML files I uploaded.
+**Prerequisite knowledge**: DNS
 
 ### Advanced
+- I can register a domain and add a DNS record, that will point the domain to a web server.
+- I can set up a webserver that will serve files 
 
+### Master
+- web caching
+- I am aware of common efficiency issues that come with a web application, and I know how to deal with them.
 
 ## Sources
 ### Video
 - https://www.youtube.com/watch?v=J8hzJxb0rpc
+- https://dyn.com/blog/dns-why-its-important-how-it-works/
 
+### Article
+- https://en.wikipedia.org/wiki/World_Wide_Web
 
 
 
