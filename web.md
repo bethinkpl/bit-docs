@@ -18,16 +18,11 @@ Web - short for World Wide Web.
 - I can explain how does the Web work.
 - I know what DNS is.
 - I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results.
-- I can make the above happen for my own custom domain name, which includes:
-  - regestering a domain name
-  - adding a DNS record, that will point the domain to a
-  - web server I've set up, which will serve some
-  - HTML files I uploaded.
 **Prerequisite knowledge**: DNS
 
 ### Advanced
 - I can register a domain and add a DNS record, that will point the domain to a web server.
-- I can set up a webserver that will serve files 
+- I can set up a webserver that will serve HTML documents, images.
 
 ### Master
 - web caching
