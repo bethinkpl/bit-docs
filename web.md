@@ -16,8 +16,8 @@ Web - short for World Wide Web.
 
 ### Intermediate
 - I can explain how does the Web work.
-- I know what DNS is.
-- I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results.
+- I know what DNS, HTTP and HTML are.
+- I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results. (Level of detail really depends on You. The more specific the answer, the better. But let's say naming 5 - 7 key steps  is enough to pass that question. Describing what exactly happens on youtube servers would be an overkill :D)
 
 **Prerequisite knowledge**: DNS, HTTP/HTTPS, HTML
 
@@ -29,7 +29,7 @@ Web - short for World Wide Web.
 **Prerequisite knowledge**: 
 
 ### Master
-- I am aware of common efficiency issues that come with a web application, and I know how to deal with them. (eg. caching, HA, CDN,)
+- I am aware of common efficiency issues that come with a web application, and I know how to deal with them. (eg. caching, code optimazation, transfer speed optimization, CDN, load balancing)
 - ...
 
 ## Sources
