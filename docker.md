@@ -1,6 +1,6 @@
-# Document title
+# Docker
 
-**Prerequisite knowledge**: web, server, infrastructure, virtualization, bash
+**Prerequisite knowledge**: server, infrastructure, virtualization, bash
 
 ## Intro
 Docker is used to run software packages called "containers".
@@ -28,9 +28,10 @@ Images are often created by combining and modifying standard images downloaded f
 * I know when to use Docker Stack and when Docker Compose
 * I know how to manage application data using volumes and bind mounts
 * I know how to use multistage builds to keep images lean
+* I know best practices for writing Dockerfiles
 * I know how to set up a Swarm cluster and run an app in it
 
-### Master aka _?_
+### Master aka _Ha(do)cker_
 * I know how to set up live debug for an app running inside a container
 * I know how to take advantage of Docker security features
 * I understand how an ingress routing mesh works
@@ -38,9 +39,11 @@ Images are often created by combining and modifying standard images downloaded f
 
 ## Sources
 * [Docker docs](https://docs.docker.com/get-started/)
+* [Getting Started with Docker (Video)](https://www.packtpub.com/application-development/getting-started-docker-video)
 * [The Difference Between Docker Compose And Docker Stack](https://vsupalov.com/difference-docker-compose-and-docker-stack/)
+* [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 * [Developer Tools Tutorials](https://github.com/docker/labs/blob/master/developer-tools/README.md)
 * [Docker Security](https://github.com/docker/labs/blob/master/security/README.md)
 
-## All custom stuff
-**Next steps**: monitoring, deployment, continuous integration, continuous deployment, kubernetes
+## Next steps
+monitoring, deployment, continuous integration, continuous deployment, kubernetes
