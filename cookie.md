@@ -10,7 +10,7 @@ An HTTP cookie is a piece of text that is transferred (both ways) between browse
 ### Apprentice aka _I can CRUD cookies_
 * I can create, read, update and delete cookies on server and browser side
 * I can set expire time on a cookie
-* I can path where cookie can be used
+* I can use Path attribute to restrict where cookie can be used
 
 ### Intermediate aka _I can use cookies in real app_
 **Prerequisite knowledge:** session
