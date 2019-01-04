@@ -15,7 +15,7 @@ An HTTP cookie is a piece of text that is transferred (both ways) between browse
 ### Intermediate aka _I can use cookies in real app_
 **Prerequisite knowledge:** session
 * I can set up a web session using cookies
-* I can communicate through subdomains using cookies Domain attribute
+* I can share session between subdomains using cookies Domain attribute
 * I understand how 3rd party tracking pixels benefit from using cookies   
 
 ### Wizard aka _I can hack cookies_
