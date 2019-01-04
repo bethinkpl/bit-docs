@@ -3,7 +3,7 @@
 **Prerequisite knowledge:** http, 
 
 ## Intro
-An HTTP cookie is a piece of text that is transferred (both ways) between browser and server on every request. They were designed to handle the state of the application. Most common use-cases for cookies are Session handling and 3rd user party tracking.
+An HTTP cookie is a piece of text that is transferred (both ways) between browser and server on every request. It was designed to handle the state of the application. Most common use-cases for cookies are session handling and 3rd user party tracking.
 
 ## Classification / acceptance questions
 
