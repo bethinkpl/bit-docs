@@ -18,7 +18,7 @@ An HTTP cookie is a piece of text that is transferred (both ways) between browse
 * I can share session between subdomains using cookies Domain attribute
 * I understand how 3rd party tracking pixels benefit from using cookies   
 
-### Wizard aka _I can hack cookies_
+### Advanced aka _I can hack cookies_
 **Prerequisite knowledge:** web security
 * I can perform and protect from CSRF attack using SameSite flag, CSRF token or by validating Origin header
 * I can protect a cookie from XSS attack using HttpOnly flag
