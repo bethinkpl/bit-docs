@@ -18,7 +18,7 @@ CSS (Cascading Style Sheets) is a style sheet language used for describing the p
 	*I know whats are classes
 	*I know how heirdom works
 	*I can change colors and fonts of text
-	*I can use padding, spaceing and frames
+	*I can use padding, margin, and border attributes
 	*I can modify elements by ID
 	*I know the difference between basic selectors (*, #X and .X)
 ### Intermediate aka _..._
