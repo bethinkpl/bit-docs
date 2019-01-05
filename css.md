@@ -10,7 +10,6 @@ CSS (Cascading Style Sheets) is a style sheet language used for describing the p
 	This cascading priority scheme is predictable. [source](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ## Classification / acceptance questions
-Questions students could ask themeselves to evaluate their competence level.
 Formulate at least one question per competence level. Do as many competence levels as you're capable of. Starting with the lowest (novice) may be a good strategy.
 
 ### Apprentice aka _Short skillset description, example: "I can branch!", "My First TODO app"_
