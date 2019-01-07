@@ -27,6 +27,9 @@
 
 ## Sources
 
+**Video**
+- [Harvard's CS50 Introduction to Computer Science - Lecture 6 - HTTP](https://www.youtube.com/watch?v=PUPDGbnpSjw)
+
 **Read online**
 
 - [HTTP codes as Valentine’s Day comics](https://medium.com/@hanilim/http-codes-as-valentines-day-comics-8c03c805faa0)
