@@ -9,10 +9,9 @@
 
 ### Apprentice aka _I know it exists_
 - I know what problem is solved by HTTP
-- 
 
-### Intermediate aka _I've been in network tab_
-- I know what can be transported via HTTP
+### Intermediate aka _I've been looking in the network tab_
+- I know what types of content can be transported via HTTP
 - I know the structure of a HTTP request/response
 - I can make practical use of the network tab to debug a problem
 - I know request types and response status codes
@@ -36,4 +35,4 @@
 
 - [Wikipedia article](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-**Next steps**: tls, https, tcp
+**Next steps**: tls, https, tcp, websockets
