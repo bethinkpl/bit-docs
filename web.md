@@ -11,19 +11,17 @@ Web - short for World Wide Web.
 ### Apprentice aka _I know what Web is_:
 - I can explain how does the Web work and what are its most fundamental building blocks.
 - I can tell the difference between the Web and the Internet.
-- I know what a web browser is.
-- I know what a web server is.
+- I know what a web browser and a web server are.
+- I can name media types that are commonly supported in web.
 
 **Where to look for answers**:
 - https://en.wikipedia.org/wiki/World_Wide_Web
 - https://www.youtube.com/watch?v=J8hzJxb0rpc
 
 ### Intermediate aka _I know what's going on in the web_
-- I can explain how does the Web work.
+**Prerequisite knowledge**: DNS, HTTP/HTTPS, HTML
 - I know what DNS, HTTP and HTML are.
 - I can describe step by step what happens when I put `www.youtube.com` into the address bar and hit enter before I can see the results. (Level of detail really depends on You. The more specific the answer, the better. But let's say naming 5 - 7 key steps  is enough to pass that question. Describing what exactly happens on youtube servers would be an overkill :D)
-
-**Prerequisite knowledge**: DNS, HTTP/HTTPS, HTML
 
 **Where to look for answers**:
 - https://dyn.com/blog/dns-why-its-important-how-it-works/
@@ -34,8 +32,6 @@ Web - short for World Wide Web.
 - I can register a domain and add a DNS record, that will point the domain to a web server.
 - I can set up a webserver that will serve HTML documents, images.
 - I can make practical use of AJAX/XHR to build a dynamic web application.
-
-**Prerequisite knowledge**: 
 
 ### Master aka _I eat web for breakfast_
 - I am aware of common efficiency issues that come with a web application, and I know how to deal with them. (eg. caching, code optimazation, transfer speed optimization, CDN, load balancing)
