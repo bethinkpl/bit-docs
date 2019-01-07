@@ -23,7 +23,7 @@
 - I can recall most commonly used HTTP headers and their purpose.
 
 ### Master aka _..._
-[Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
+
 
 ## Sources
 
