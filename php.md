@@ -28,10 +28,11 @@ HTML
 
 For those who like documentation-like tutorials
 [Brief and shallow description of php](https://www.w3schools.com/php/)
+[PHP Manual](http://php.net/manual/en/)
 
 
 For those who like learning from books:
-[Luke Welling, Laura Thomson, “PHP i MySQL. Tworzenie stron WWW. Vademecum profesjonalisty”](http://miroslawzelent.pl/ksiazki-warte-uwagi/)
+[Luke Welling, Laura Thomson, “PHP and MySQL. Web Development”](https://sourcecodefree.org/book-detail/php-and-mysql-web-development-5th-edition.html)
 
 For those who like video courses:
 [PHP for beginners - laracasts](https://laracasts.com/series/php-for-beginners)
@@ -39,3 +40,4 @@ For those who like video courses:
 
 ## Next steps: 
 Laravel
+
