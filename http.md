@@ -1,5 +1,6 @@
-### HTTP
+# HTTP
 
+HTTP - short for Hypertext Transfer Protocol; The foundation of data communication for the World Wide Web
 
 ## Classification / acceptance questions
 
