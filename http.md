@@ -1,9 +1,5 @@
 ### HTTP
 
-**Prerequisite knowledge**: null
-
-## Intro
-
 
 ## Classification / acceptance questions
 
