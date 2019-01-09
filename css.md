@@ -1,6 +1,6 @@
 # CSS
 
-**Prerequisite knowledge**: basic html elements
+**Prerequisite knowledge**: html
 
 ## Intro
 CSS (Cascading Style Sheets) is a style sheet language used for describing the presentation of document written in a markup language (like HTML).
