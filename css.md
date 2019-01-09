@@ -15,7 +15,7 @@ CSS (Cascading Style Sheets) is a style sheet language used for describing the p
 	*I know what is a box model, and I know its basic elements (graphical interpretation)
 	*I know how html elements could be displayed (in line, in line block, flex, table)
 	*I know what is the difference between in line, in line block and flex
-	*I know whats are classes
+	*I know how to use CSS classes
 	*I know how inheritance works
 	*I can change colors and fonts of text
 	*I can use padding, margin, and border attributes
