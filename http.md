@@ -16,10 +16,7 @@ HTTP - short for Hypertext Transfer Protocol; The foundation of data communicati
 ### Advanced aha _?_
 - I'm familiar with security flaws that come with sending unencrypted data via HTTP and how we solve that problem.
 - I know differences between HTTP versions, their pros and cons and when to use a particular version.
-- I can recall most commonly used HTTP headers and their purpose.
-
-### Master aka _..._
-
+- I can recognize most commonly used HTTP headers and know their purpose.
 
 ## Sources
 
