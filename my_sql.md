@@ -7,7 +7,7 @@ DATABASES
 ## Classification / Acceptance :
 
 #### Apprentice aka _Hello World_
-* I know what kind of database MySQL and know it's pros and cons
+* I know what kind of database MySQL is and know it's pros and cons
 * I can create a database
 * I can view database structure with basic commands
 * I know MySQL data types
