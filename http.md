@@ -10,7 +10,7 @@ HTTP - short for Hypertext Transfer Protocol; The foundation of data communicati
 ### Intermediate aka _I've been looking in the network tab_
 - I know what types of content can be transported via HTTP
 - I know the structure of an HTTP request/response
-- I can make practical use of the network tab to debug a problem
+- I can make practical use of the browser network tab to debug a problem
 - I know request types and response status codes
 
 ### Advanced
