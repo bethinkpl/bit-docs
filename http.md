@@ -13,7 +13,7 @@ HTTP - short for Hypertext Transfer Protocol; The foundation of data communicati
 - I can make practical use of the network tab to debug a problem
 - I know request types and response status codes
 
-### Advanced aha _?_
+### Advanced
 - I'm familiar with security flaws that come with sending unencrypted data via HTTP and how we solve that problem.
 - I know differences between HTTP versions, their pros and cons and when to use a particular version.
 - I can recognize most commonly used HTTP headers and know their purpose.
