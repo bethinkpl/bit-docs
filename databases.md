@@ -21,10 +21,8 @@ NONE
 
 ## Sources:
 
-For those who like documentation-like tutorials
 [Article and video presentation about pros and cons of relational and non-relational databases](https://www.dataversity.net/review-pros-cons-different-databases-relational-versus-non-relational/#)
 
-Short description of indexing
 [Indexing in a nutshell](https://medium.com/@jimmyfarillo/the-basics-of-database-indexes-for-relational-databases-bfc634d6bb37)
 
 
