@@ -3,8 +3,7 @@
 web, http, javascript
 
 ## Intro
-Before you start learning about AJAX make sure you understand basic concepts of browser-server communication.
-There is no AJAX without Javascript so make sure you know how to write code in JS.
+AJAX stands for Asynchronous Javascript and XML. AJAX itself is not a piece of technology but rather an approach which utilizes features of the web. Thanks to AJAX web applications can make requests to external servers and update itself without performing the full page reload. AJAX requests are widely used in Single Page Application world.
 
 ## Classification / acceptance questions
 ### Apprentice aka _First Requet_
