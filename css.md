@@ -19,14 +19,17 @@ CSS (Cascading Style Sheets) is a style sheet language used for describing the p
 	*I know how inheritance works
 	*I can change colors and fonts of text
 	*I can use padding, margin, and border attributes
-	*I can modify elements by ID
+	*I can modify elements by ID, by tag name and by class
 	*I know the difference between basic selectors (*, #X and .X)
 ### Intermediate aka _..._
 	*I can make website looks like in given template
+	*I can modify elements by siblings and by attributes
+	*I can use 2D and 3D transforms
 ### Advanced aka _..._
-
+	*I can make responsive websites
+	*I can work with media queries
 ### Master aka _..._
 
 ## Sources
-
+	[w3schools.com](https://www.w3schools.com/css/default.asp)
 
