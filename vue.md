@@ -32,7 +32,7 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 * I can use Vuex state manager to simplify data flow in the application
 * I can validate Prop Types
 * I can use scoped slots to access data from the child component
-* I can use `<transition>` component to make the application more smooth
+* I can use `<transition>` component to make the application smoother
 * I can prepare production build
 
 ### Master aka _Under the hood_
