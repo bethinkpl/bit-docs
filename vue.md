@@ -21,6 +21,7 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 * I can pass pass parameters to a component (`props`)
 * I can emit and handle component events (`$emit`)
 * I can use computed properties and watchers
+* I understand the difference between `computed` and `data`
 * I can handle form input using `v-model`
 * I can pass content inside another component using slots
 * I can dynamically switch between components using `<component>`
@@ -28,6 +29,7 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 
 ### Advanced aka _TODO SPA_
 * I can use an external plugin
+* I can use mixins to avoid code duplication
 * I can use routes to navigate in the application using Vue router
 * I can use Vuex state manager to simplify data flow in the application
 * I can validate Prop Types
