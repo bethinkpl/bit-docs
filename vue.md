@@ -28,19 +28,21 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 * I can use filters for data transformations in templates
 
 ### Advanced aka _TODO SPA_
+**Prerequisite knowledge**: debugger
+* I can register a component globally
 * I can use an external plugin
-* I can use mixins to avoid code duplication
+* I can use mixins to distribute reusable functionalities in components
 * I can use routes to navigate in the application using Vue router
 * I can use Vuex state manager to simplify data flow in the application
 * I can validate Prop Types
 * I can use scoped slots to access data from the child component
 * I can use `<transition>` component to make the application smoother
 * I can prepare production build
+* I can debug Vue application using Vue.js devtools
+* I can debug problems with missing observables and broken reactivity
 
 ### Master aka _Under the hood_
-**Prerequisite knowledge**: debugger
 * I can create my own plugin
-* I can debug Vue application using Vue.js devtools
 * I can unit test a component
 * I can enable server-side rendering in my Vue app
 
