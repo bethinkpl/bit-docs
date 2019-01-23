@@ -21,6 +21,9 @@ Formulate at least one question per competence level. Do as many competence leve
 ## Sources
 Provide references to knowledge sources you recommend. Sources diversity (books, video, articles, courses) is desired. Categorization by competence level is also desired.
 
+* [Example source](http://google.com/) (Competence level)
+* [Example source2](http://google.com/) (Apprentice - Advanced)
+
 ## All custom stuff
 If you'd like to provide your own educational content of any kind (e.g. original exercices ideas), now is the best f*** time.
 
