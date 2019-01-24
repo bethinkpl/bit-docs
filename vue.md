@@ -39,9 +39,9 @@ Vue.js (commonly referred to as Vue; pronounced /vjuː/, like view) is an open-s
 * I can use `<transition>` component to make the application smoother
 * I can prepare production build
 * I can debug Vue application using Vue.js devtools
-* I can debug problems with missing observables and broken reactivity
 
 ### Master aka _Under the hood_
+* I can debug problems with missing observables and broken reactivity
 * I can create my own plugin
 * I can unit test a component
 * I can enable server-side rendering in my Vue app
