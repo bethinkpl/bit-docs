@@ -48,3 +48,6 @@ Laravel is a free, open-source PHP web framework, created by Taylor Otwell and i
 ### Read online
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 - [Laravel official docs](https://laravel.com/docs/)
+
+### Code samples
+* [Laravel real-world app](https://github.com/gothinkster/laravel-realworld-example-app)
