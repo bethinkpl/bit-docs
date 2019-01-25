@@ -21,6 +21,9 @@ HTML
  * I can use require() and include() directives to use contents of other PHP files
  * I can read/write data from/to a file
  * I can connect to external database using PDO
+ * I know what namespaces are and can explain their use in creating hierarchy
+ * I understand the differences between classes, interfaces and traits and know when to use them
+ * I can use inheritance to model relations between objects
  * I can handle possible exceptions where necessary
 
 
