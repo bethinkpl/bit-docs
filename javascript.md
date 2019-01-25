@@ -1,6 +1,6 @@
 # Javascript
 
-**Prerequisite knowledge**: web, programming
+**Prerequisite knowledge**: web, programming, browser
 
 ## Intro
 
@@ -8,6 +8,7 @@
 ## Classification / acceptance questions
 
 ### Apprentice aka _Hello Browser!_
+* I know JavaScript's primary goal when it was created
 * I know how to execute JavaScript in browser
   * I can import JavaScript file to HTML
   * I can inline a script in HTML
@@ -18,6 +19,7 @@
 * I know what browser gives me as an environment
 
 ### Intermediate aka _Hello Server!_
+**Prerequisite knowledge:** server
 * I know how to execute JavaScript in non-browser environment
 * I know how the server environment differs from the browser
 * I can install a 3-rd party library using package manager and use it in my application
@@ -27,11 +29,11 @@
 * I know the difference between JavaScript and EcmaScript
 * I know what the transpilation means and how I can transpile my code to make it work in desired environment
 * I can bundle my code (and I know what it means)
-* I know 
 * I know that JavaScript can be used to write desktop and mobile applications
   * I can name the frameworks that allows me to do so
 
 ### Master aka _Linguist_
+**Prerequisite knowledge:** programming paradigms
 * I know two programming paradigms important in JavaScript world
   * Object Oriented Programming
   * Functional Programming
@@ -40,6 +42,7 @@
   * I understand the sentence:
   > Favor object composition over class inheritance.
 * I know there are tools that can staticly analyze my code and help me follow certain style guidelines
+* I know what TypeScript is and what's it's purpose
 
 ### Wizard aka _Under the hood_
 * I can use profiler
@@ -47,5 +50,6 @@
 * I can name different JavaScript engines
 
 ## Sources
-
-### Read online 
+* [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - Apprentice Level
+* [10 Interview questions every javascript developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Composing Software](https://leanpub.com/composingsoftware)
