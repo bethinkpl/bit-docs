@@ -2,13 +2,12 @@
 
 **Prerequisite knowledge**: web, programming, browser
 
-## Intro
-
 
 ## Classification / acceptance questions
 
 ### Apprentice aka _Hello Browser!_
 * I know JavaScript's primary goal when it was created
+* I know basics of functional programming
 * I know how to execute JavaScript in browser
   * I can import JavaScript file to HTML
   * I can inline a script in HTML
@@ -16,6 +15,9 @@
   * blocking vs non-blocking
 * I understand the basic concepts of Event Loop and what it means for code's execution 
 * I know how to make my script execute on asynchronous action
+    * I know how to use callbacks
+    * I know how to use Promises
+    * I know how to use async/await
 * I know what browser gives me as an environment
 
 ### Intermediate aka _Hello Server!_
@@ -29,6 +31,7 @@
 * I know the difference between JavaScript and EcmaScript
 * I know what the transpilation means and how I can transpile my code to make it work in desired environment
 * I can bundle my code (and I know what it means)
+    * I can optimize created bundle by using minifaction
 * I know that JavaScript can be used to write desktop and mobile applications
   * I can name the frameworks that allows me to do so
 
