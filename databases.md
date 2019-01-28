@@ -10,7 +10,6 @@ NONE
 #### Apprentice aka _Hello World_
  * I know what a database is and what it is used for
  * I can enumerate at least 5 advantages and disadvantages of using a database
- * I know general requirements that each database must meet to work correctly
  * I can tell the most important differences between SQL and NoSQL
  * I can enumerate at least 3 examples of SQL databases and 3 examples of NoSQL databases
 
