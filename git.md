@@ -42,7 +42,7 @@ You can read more about VCS (shortcut from Version Control System) in this artic
   * git flow
   * pull(merge) request
 
-### Wizard aka _I can fix what I break_
+### Master aka _I can fix what I break_
 * I understand how Git history works
 * I understand the difference between merging and rebasing
 * I can revert my changes, both on my local machine and on remote Git server
