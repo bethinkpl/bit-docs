@@ -20,6 +20,7 @@ DNS - Short for Domain Name System
 [Optional] **Prerequisite knowledge**: comma, separated, list, of, documents, names
 
 ## Sources
+https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/
 
 
 **Next steps**: comma, separated, list, of, documents, names
